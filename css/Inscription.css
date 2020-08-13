@@ -1,0 +1,351 @@
+body
+    {
+        background-color:white;
+        margin: 0px;
+        padding:0px;
+        height: auto;
+        
+        
+    }
+#FlashInfo
+    {
+       color: red;
+        font-family: monospace;
+        margin-left: 7%;
+        margin-right: 1%;
+        font-size: 13px;
+         
+        
+    }
+marquee
+     {
+        direction="left", behavior="scroll" ,scrollamount="1";
+         height:20px;
+         width:700px;
+         background-color:#ffffff;
+         font-family:Cursive;
+         font-size:13px;
+         color:#000000;
+         
+         
+     }
+
+#Langue 
+    {
+        color: red;
+        font-family: monospace;
+        margin-left: 3%;
+        margin-right: 3%;
+        font-size: 13px;
+        overflow: hidden;
+    }
+
+#Inscription
+    {
+        color: red;
+        font-family: monospace;
+        margin-right: 1%;
+        font-size: 13px;
+       overflow: hidden;
+    }
+#MonCompte
+    {
+        color: red;
+        font-family: monospace;
+        margin-right: 1%;
+        font-size: 13px;
+        overflow: hidden;
+        
+    }
+
+.BarNav1
+    {
+        display: inline-block;
+        width: 100%;
+        background-color: white;
+        border-bottom: 1px solid red;  
+        
+    }
+.BarNav1 ul
+     {
+        list-style-type: none;
+     }
+
+.BarNav1 li 
+     {
+        display: inline-block;
+        margin-left: 1px;
+         margin-right: 1px;
+        color: white;
+
+     }
+.BarNav1  a , nav  a
+    {
+      text-decoration: none;
+    }
+
+#barner
+    {
+      margin-left: 7%;
+    
+   
+    }
+#barner img
+    {
+     width: auto;
+        height: auto;
+   
+    }
+nav
+    {
+      display: block;
+        width: 100%;
+        background-color:midnightblue;
+        height: 30px;
+        
+       
+    }
+
+nav li 
+     {
+        
+        display: inline-block;
+        font-size: 14px;
+        color: white;
+          overflow: hidden;
+           margin-right: 2%;
+
+     }
+nav li a
+     {
+        
+        font-size: 16px;
+        color: white;
+         font-family: sans-serif;
+       
+     }
+#recherche
+    {
+        margin-top: 3px;
+    } 
+#bloc
+    {
+      background-color:lightgray;
+        padding-top: 1%;
+    }
+.Texte
+    {
+       width: 1092px;
+       background-color:white;
+        padding-top: 0%;
+       margin-left: 6.5%;
+       margin-right: 6.5%;
+       margin-top: -3%;
+       height: auto;
+         
+       
+    }
+
+.Concentement
+    {
+         background-color: dimgrey;
+        
+        font-size: 30px;
+        font-family: sans-serif;
+       text-align: center;
+        color: white;
+        height: 30px;
+        
+    }
+
+#table
+    {   
+      
+       margin-left: 17%;
+        margin-top: -8%;
+
+      
+    }
+table
+    {
+        background-color:dimgray;
+        margin-top: 2%; 
+    }
+label
+    {
+    color: white;
+    font-size: 22px;
+    
+    
+    }
+.td1
+{
+    
+      background-color:darkblue;
+    
+    
+}
+table input
+    {
+      margin-top: 3%;
+    }
+
+#InputNom,#InputPrenom
+  {
+      margin-right: 2%;
+      margin-left: 2%;
+      
+  }
+
+
+
+.pousse
+{
+    padding-left: 3%;
+}
+
+ 
+
+ 
+form input[type="text"], input[type="email"], input[type="date"],input[type="password"]  {
+margin-bottom: .3em;
+padding: .25em;
+
+    height: 20px;
+    width: 173px;
+    white-space: pre-wrap;
+    
+}
+
+ #table input[type="submit"]{
+margin-bottom: .3em;
+padding: .25em;
+font-size: 1em;
+
+    
+
+}
+
+select {
+	width: 181px;
+     height: 29px;
+	
+	background: #fff;
+    
+}
+
+
+
+#Jesoussignée
+    {
+       
+         margin-left: 5%;
+         font-family: Arial, Helvetica, sans-serif;
+       
+        text-align: justify;
+        margin-right: 9%;
+         
+    }
+#Article1
+ {
+       
+         margin-left: 17%;
+         font-family: Arial, Helvetica, sans-serif;
+         width: 780px;
+        text-align: justify;
+        margin-right: 9%;
+        padding-top: 4%;
+         
+    }
+
+#Cites ,#pp
+    {
+       margin-left: 20%;
+    }
+.Lu
+    {
+       color: dodgerblue;
+         
+      
+    }
+.BAC
+    {
+        border-bottom: 2px solid black;
+    }
+.LuAp
+    {
+        color: royalblue;
+        
+        
+    }
+
+.Bouton a
+    {
+      text-decoration: none;
+    }
+#Annuler,#Valider
+    {
+      margin-right: 0%;
+        margin-left: 11%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer
+    {
+       background-color: dimgrey;
+         width: 848px;
+      height:195px;
+         margin-left: 19.5%;
+       margin-right: 6.5%;
+        margin-top:4%;
+        
+    }
+
+.navfin
+    {
+       display: block;
+        border-top: 1px solid white;
+        border-bottom: 1px solid white;
+       
+        margin-top: 20%;
+        
+    }
+.navfin ul
+     {
+        list-style-type: none;
+         margin-left: 16%;
+     }
+
+.navfin li 
+     {
+        display: inline-block;
+        margin-right: 2%;
+        color: white;
+         font-size: 13px;
+
+     }
+#bas a ,#bas
+    {
+       padding-top: 15px;
+       text-decoration: none;
+       color: white;
+        font-size: 12px;
+        font-family: serif;
+         padding-bottom: 15px;
+        
+        
+    }
+
+
+

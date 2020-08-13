@@ -1,0 +1,51 @@
+body
+{
+    background-color: white;
+}
+
+
+td
+{
+    color: black;
+    font-size: 30px;
+}
+
+#table2 label
+
+{
+    color: black;
+    font-size: 25px;
+    margin-left: 40px;
+     
+}
+#table3 label
+
+{
+    color: black;
+    font-size: 20px;
+     margin-left: 40px;
+   
+   
+    
+}
+#table3 td,#table2 td
+
+{
+border: 1px solid black;
+    border-collapse: collapse;
+    }
+
+#Valider
+
+{
+    font-size: 30px;
+    width: 100px;
+}
+
+
+
+
+
+
+
+

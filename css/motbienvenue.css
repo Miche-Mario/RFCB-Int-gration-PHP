@@ -1,0 +1,22 @@
+body{
+
+background-color: white;
+}
+.sec1{
+    width: 50%;
+    margin-left: 5%;
+}
+p{
+    text-align: justify;
+    text-emphasis-color: black;
+    text-decoration-color: antiquewhite;
+    size: 32px;
+   
+}
+aside{
+    width: 25%;
+    height: 25%;
+    margin-top : -70%;
+    margin-left : 60%;
+    position: absolute;
+}
